@@ -205,3 +205,18 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignore datasets and videos
+*.mp4
+*.avi
+*.mov
+
+# Ignore images
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+
+CV_intuition/
+Python_basics/
