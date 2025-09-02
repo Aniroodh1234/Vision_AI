@@ -217,6 +217,7 @@ __marimo__/
 *.png
 *.bmp
 *.tiff
+*.pdf
 
 CV_intuition/
 Python_basics/
